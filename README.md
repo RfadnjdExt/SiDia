@@ -1,4 +1,5 @@
-# 🏥 Sistem Diagnosa Penyakit (AI-Based)
+# 🏥 SiDia - Sistem Diagnosa Penyakit (AI-Based)
+
 
 <p align="center">
   <img src="logo.png" alt="Logo Sistem Diagnosa Penyakit" width="200"/>

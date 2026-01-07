@@ -59,15 +59,14 @@ public class Main {
         // --- Mhs 1 (Input) ---
         Scanner scanner = new Scanner(System.in);
         
-        // ASCII Logo
-        System.out.println("  ___  _                               ___                   _   _ _      __ _   _____  ");
-        System.out.println(" |   \\(_)__ _ __ _ _ _  ___ ___ __ _  | _ \\___ _ _ _  _ __ _| |_(_) |_   / //_\\ |_ _\\ \\ ");
-        System.out.println(" | |) | / _` / _` | ' \\/ _ (_-</ _` | |  _/ -_) ' \\ || / _` | / / |  _| | |/ _ \\ | | | |");
-        System.out.println(" |___/|_\\__,_\\__, |_||_\\___/__/\\__,_| |_| \\___|_||_\\_, \\__,_|_\\_\\_|\\__| | /_/ \\_\\___|| |");
-        System.out.println("             |___/                                 |__/                  \\_\\        /_/ ");
-
+        // ASCII Banner
+        System.out.println("  ___ _ ___  _      ");
+        System.out.println(" / __(_)   \\(_)__ _ ");
+        System.out.println(" \\__ \\ | |) | / _` |");
+        System.out.println(" |___/_|___/|_\\__,_|");
+        System.out.println("                    ");
         
-        System.out.println("=== Sistem Diagnosa Penyakit (Premium) ===");
+        System.out.println("=== Welcome to SiDia (Sistem Diagnosa) ===");
         
         // Final Polish: Patient Identity
         System.out.print("Masukkan Nama Anda: ");
