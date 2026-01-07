@@ -59,16 +59,12 @@ public class Main {
         // --- Mhs 1 (Input) ---
         Scanner scanner = new Scanner(System.in);
         
-        // ASCII Logo from File
-        try (Scanner logoScanner = new Scanner(new File("logo_ascii.txt"))) {
-            while (logoScanner.hasNextLine()) {
-                System.out.println(logoScanner.nextLine());
-            }
-        } catch (FileNotFoundException e) {
-            // If file missing, fallback to simple text
-            System.out.println("(Robot Dr. AI - Siap Mendiagnosa)");
-        }
-        System.out.println("\n");
+        // ASCII Logo
+        System.out.println("  ___  _                               ___                   _   _ _      __ _   _____  ");
+        System.out.println(" |   \\(_)__ _ __ _ _ _  ___ ___ __ _  | _ \\___ _ _ _  _ __ _| |_(_) |_   / //_\\ |_ _\\ \\ ");
+        System.out.println(" | |) | / _` / _` | ' \\/ _ (_-</ _` | |  _/ -_) ' \\ || / _` | / / |  _| | |/ _ \\ | | | |");
+        System.out.println(" |___/|_\\__,_\\__, |_||_\\___/__/\\__,_| |_| \\___|_||_\\_, \\__,_|_\\_\\_|\\__| | /_/ \\_\\___|| |");
+        System.out.println("             |___/                                 |__/                  \\_\\        /_/ ");
 
         
         System.out.println("=== Sistem Diagnosa Penyakit (Premium) ===");
