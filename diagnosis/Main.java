@@ -66,7 +66,7 @@ public class Main {
         System.out.println(" |___/_|___/|_\\__,_|");
         System.out.println("                    ");
         
-        System.out.println("=== Welcome to SiDia (Sistem Diagnosa) ===");
+        System.out.println("=== SiDia: Asisten kesehatan AI & dokumentasi yang ramah ===");
         
         // Final Polish: Patient Identity
         System.out.print("Masukkan Nama Anda: ");
