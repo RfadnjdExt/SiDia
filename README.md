@@ -1,5 +1,10 @@
 # 🏥 Sistem Diagnosa Penyakit (AI-Based)
 
+<p align="center">
+  <img src="logo.jpg" alt="Logo Sistem Diagnosa Penyakit" width="200"/>
+</p>
+
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Probability-green?style=for-the-badge)
