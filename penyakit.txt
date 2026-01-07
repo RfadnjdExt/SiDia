@@ -1,0 +1,4 @@
+Flu;demam,batuk,pilek;Istirahat cukup dan minum vitamin C
+Tipes;demam tinggi,mual,lemas;Makan makanan lunak dan hindari makanan pedas
+Covid-19;demam,batuk,sesak nafas;Isolasi mandiri dan hubungi layanan kesehatan
+Demam Berdarah;demam tinggi,bintik merah,nyeri sendi;Banyak minum air putih dan periksa trombosit
