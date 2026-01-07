@@ -1,8 +1,9 @@
-# 🏥 SiDia - Sistem Diagnosa Penyakit (AI-Based)
+# 🏥 SiDia
+> **Asisten kesehatan AI & dokumentasi yang ramah.**
 
 
 <p align="center">
-  <img src="logo.png" alt="Logo Sistem Diagnosa Penyakit" width="200"/>
+  <img src="banner.png" alt="Banner SiDia" width="100%"/>
 </p>
 
 
