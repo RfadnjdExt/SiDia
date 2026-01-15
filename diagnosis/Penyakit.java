@@ -38,4 +38,15 @@ public class Penyakit {
     public boolean cocok(List<String> gejalaInput) {
          return hitungPersentase(gejalaInput) == 100;
     }
+
+    public String getGejalaStr() {
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < daftarGejala.size(); i++) {
+            sb.append(daftarGejala.get(i).getNama());
+            if (i < daftarGejala.size() - 1) {
+                sb.append(",");
+            }
+        }
+        return sb.toString();
+    }
 }
